@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Ali Khan",
+    "encoding": [0.1234, -0.2345, 0.3456, ...]  // 128-dimensional encoding
+  },
+  {
+    "name": "Sara Ahmed",
+    "encoding": [-0.1122, 0.2233, -0.3344, ...]
+  }
+]
